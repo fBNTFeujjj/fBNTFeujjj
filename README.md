@@ -9,7 +9,7 @@
 
 ###
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=fBNTFeujjj&data=repositories,stars,followers&theme=orangemode" alt="GitHub WidgetBox">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=fBNTFeujjj&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
 </p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fBNTFeujjj&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
