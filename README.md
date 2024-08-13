@@ -7,10 +7,6 @@
 - 🚧 My project : Futonium https://discord.gg/EPKcucew5z
 
 
-- 🤍 PHP, C#
-- 🖤 French developer
-- 🏆 Founder of Futonium
-
 ###
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fBNTFeujjj&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
