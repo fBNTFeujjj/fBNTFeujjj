@@ -42,14 +42,3 @@
 
 ###
 
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://github.com/fBNTFeujjj/fBNTFeujjj/blob/main/github-user-contribution.svg" width="100%"/>
-</div>
-
-###
