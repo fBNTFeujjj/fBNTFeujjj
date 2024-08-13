@@ -12,7 +12,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=fBNTFeujjj&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
 </p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fBNTFeujjj&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=fBNTFeujjj&locale=fr&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fBNTFeujjj&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fBNTFeujjj&layout=compact&theme=github-compact"/>
 </div>
