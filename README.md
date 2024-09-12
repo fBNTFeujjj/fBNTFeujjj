@@ -4,7 +4,7 @@
 - 👀 I know : PHP | JavaScript
 - 🌱 I’m currently learning Json UI
 - 🏠 Based on PMMP 5
-- 🚧 My project : Futonium [![Discord](https://img.shields.io/discord/1239607050988818432?label=Discord&logo=discord&color=blue)](https://discord.gg/futonium)
+- 🚧 My project : Futonium [![Discord](https://img.shields.io/discord/1239607050988818432?label=Discord&logo=discord&color=blue)]([https://discord.gg/futonium](https://discord.gg/EPKcucew5z))
 
 
 ## <a id="socials"></a>🌐 〢 Socials
