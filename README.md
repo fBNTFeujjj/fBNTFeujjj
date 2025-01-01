@@ -1,6 +1,6 @@
 ## <a id="aboutme"></a>🪄 〢 About Me
 
-- 👋 Hi everyone, I’m @BNTFeujjj
+- 👋 Hi everyone, I’m @fBNTFeujjj
 - 👀 I know : PHP | JavaScript
 - 🌱 I’m currently learning Json UI
 - 🏠 Based on PMMP 5
